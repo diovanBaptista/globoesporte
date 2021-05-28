@@ -1,0 +1,136 @@
+@charset "utf-8";
+
+body{
+	font-family: arial, sans-serif;
+	background: #C0C0C0;
+	clear: rgba(0,0,0,.5);
+
+}
+
+article#titulo div{
+	background-color:#363636;
+	height: 60px;
+	right: 800px;
+	color: white;
+	font-size: 20pt;
+	margin: -30px 0px 0px 0px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+}
+
+div#interface{
+	width: 960px;
+	margin-top: 40px;
+	background-color: #DCDCDC;
+	margin:10px auto 10px auto;
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+	padding: 10px; 
+}
+
+header#base img#emblema{
+	  position: absolute;
+   	left: 950px;
+	  top: 60px;
+    height:150px;
+    width: 150px;
+}
+
+p{
+	text-align: justify;
+	text-indent: 30px;
+}
+
+header#base h1{
+
+  font-family: 'fontelogo' , sans-serif;
+  font-size: 30pt;
+  color: #606060;
+  text-shadow: 1px 1px 1px rgba(0 ,0 ,0,.6);
+  padding: 0px;
+  margin-bottom: 0px;
+}
+header#base h2{
+  font-family: arial, sans-serif;
+  color: #888888;
+  font-size: 15pt;
+  padding: 0px;
+margin-top: 0px;
+}
+
+nav#menu{
+	list-style: none;
+	text-transform:uppercase;
+  position:absolute;
+    top: 70px;
+    left:400px;
+}
+nav#menu li {
+
+  display: inline-block;
+  background-color: #dddddd;
+  padding :10px;
+  margin: 2px;
+  transition: background-color 1s;
+}
+nav#menu li:hover {
+  background-color: #606060;
+}
+
+nav#menu a{
+	color: #1C1C1C;
+	text-decoration: underline;
+}
+
+nav#menu a:hover{
+	color: #ffffff;
+	text-decoration: underline;
+}
+div#antes-foto{
+	width: 960px;
+	margin-top: 40px;
+	background-color: #DCDCDC;
+	margin:10px auto 10px auto;
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+	padding: 10px; 
+}
+
+.goleiro img {
+	max-width: 100%;
+
+}
+
+.goleiro {
+	text-align: center;
+}
+
+div#pos-foto{
+	width: 960px;
+	margin-top: 40px;
+	background-color: #DCDCDC;
+	margin:10px auto 10px auto;
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+	padding: 10px; 
+}
+
+h3{
+	
+	font-size: 18pt;
+}
+
+
+article#ultimo div{
+	background-color:#363636;
+	height: 100px;
+	right: 800px;
+	color: white;
+	font-size: 20pt;
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+}
+
+footer#rodape{
+	clear: both;
+	border-top: 1px solid #000000; 
+}
+
+footer#rodape p{
+	text-align: center;
+}

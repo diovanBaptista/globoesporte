@@ -1,0 +1,109 @@
+@charset "utf-8";
+
+.competicao {
+  font-family: arial, sans-serif;
+  background: #131212;
+  clear: rgba(5, 5, 5, 0.5);
+}
+.img-center {
+  text-align: center;
+}
+.modo div {
+  background-color: #917d11;
+  height: 60px;
+  right: 800px;
+  color: rgb(255, 255, 255);
+  font-size: 20pt;
+  margin: -30px 0px 0px 0px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.cabecalho h1 {
+  text-align: center;
+}
+
+
+
+.libertadores h1 {
+  font-size: 1.8rem;
+  font-family:'Times New Roman', Times, serif;
+  color: #917d11; 
+  text-align: center;
+  margin-top: 50px;
+}
+
+.libertadores h3 {
+  font-size: 1.4rem;
+  font-family:'Times New Roman', Times, serif;
+  color: #917d11;
+  margin-top: -20px;
+}
+
+.libertadores img {
+  width: 500px;
+  height: 500px;  
+}
+
+.paulistao h1 {
+  font-size: 1.8rem;
+  font-family:'Times New Roman', Times, serif;
+  color: #917d11; 
+  margin-top: 50px;
+  text-align: center;
+}
+
+.paulistao h3 {
+  font-size: 1.4rem;
+  font-family:'Times New Roman', Times, serif;
+  color: #917d11;
+  margin-top: -20px;
+}
+
+.paulistao img {
+  width: 500px;
+  height: 500px;
+  
+}
+
+.copabrasil h1 {
+    font-size: 1.8rem;
+    font-family:'Times New Roman', Times, serif;
+    color: #917d11;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.tabela {
+position: relative;
+left: 30%;
+}
+
+#tabela {
+   font-size: 1.4rem;
+    font-family:'Times New Roman', Times, serif;
+    color: #917d11;
+}
+
+.tabela img {
+  width: 150px;
+  height: 150px;
+}
+
+.tabela td {
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.brasileirao h1 {
+  margin-top: 50px;
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+  color: #917d11;
+  font-size: 1.8rem;
+}
+
+.brasileirao h2 {
+  color: rgb(185, 10, 10);
+  text-align: center;
+
+}

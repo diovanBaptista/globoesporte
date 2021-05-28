@@ -1,0 +1,22 @@
+@charset "utf-8";
+.loja {
+	background-color: rgb(25, 121, 121);
+}
+.topo-loja {
+  background-color:#74b7c0b6;
+	height: 60px;
+	right: 800px;
+	color: white;
+	font-size: 20pt;
+	margin: -30px 0px 0px 0px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+}
+.compra img{
+  display: flex;
+  width: 300px;
+  height: 300px;
+}
+
+.compra td {
+  text-align: center;
+}

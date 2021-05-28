@@ -1,0 +1,43 @@
+@charset "utf-8";
+.partida{
+  background-color:blueviolet ;
+}
+.topo-partida{
+  background-color:#bc8de7cb;
+	height: 60px;
+	right: 800px;
+	color: white;
+	font-size: 20pt;
+	margin: -30px 0px 0px 0px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+}
+
+.tabela-partida {
+  text-align: center;
+  display: flex;
+  width: 100%;
+  color: rgb(12, 12, 12);
+  position: relative;
+  left: 30%;
+}
+
+.titulo h1 {
+  text-align: center;
+  font-size: 1.8rem;
+  color: rgb(5, 80, 146);
+}
+.tabela-partida td {
+  font-size: 1.2rem;
+  color: rgb(5, 80, 146);
+}
+
+.titulo th {
+  font: 1.5rem;
+  color: black;
+}
+
+.centro {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
